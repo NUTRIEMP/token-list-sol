@@ -1,0 +1,25 @@
+  "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bb1pEzdx4ZhgAs9yRp3S1LsW6NT1t1dFpe4hBow5jZ3t",
+      "symbol": "BUDZ",
+      "name": "BUDZ",
+      "decimals": 6,
+      "logoURI": "https://www.imgpp.com/s1/2022/12/05/BUDZ-COIN-GREEN.png",
+      "tags": [
+        "social-token",
+        "nft-token",
+        "community",
+        "nutriemp.crypto",
+        "nft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Nutriemp"
+        "website": "https://linktr.ee/nutriemp.CRYPTO"
+      }
+    }
+  ],
+  "version": {
